@@ -15,6 +15,7 @@ public class SOF102_NHAPMON {
      */
     public static void main(String[] args) {
         System.out.println("hello");
+        System.out.println("qq");
     }
     
 }
